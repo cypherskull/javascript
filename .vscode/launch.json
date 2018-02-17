@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/leap/leap.js"
+            "program": "${workspaceFolder}/simple-cipher/simple-cipher.js"
         }
     ]
 }
